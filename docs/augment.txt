@@ -5,18 +5,19 @@ OMNI
 ORB Union
 Preventers
 Neo Zeon
-evil
-transparent
+Evil
+Transparent
+Pearl
 OZ
-all-black
+All-black
 Trans-Am
 AEUG
 Titans
 Vist Foundation
 Char's
-medieval
+Medieval
 Teutonic
 Overwatch variant
-human-scale
-stolen
-rehashed 
+Human-scale
+Stolen
+Rehashed 
