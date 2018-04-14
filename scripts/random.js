@@ -27,7 +27,7 @@ async function addRandomSourceFromDocument(url) {
 		request.responseType = 'text';
 		var data;
 		request.onload = function() {
-			addRandomSource(request.response.split("\r\n"));
+			addRandomSource(request.response.split("\n"));
 			resolve();
 		};
 		request.send(null);
