@@ -13,15 +13,10 @@ Trans-Am
 AEUG
 Titans
 Vist Foundation
-white
-red
-blue
-green
-purple
-yellow
-brown
-orange
+Char's
 medieval
 Teutonic
 Overwatch variant
-human-scale 
+human-scale
+stolen
+rehashed 
