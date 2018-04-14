@@ -35,6 +35,7 @@ async function addRandomSourceFromDocument(url) {
 		request.onload = function() {
 			var source = request.response.split("\n");
 			source = source.filter(function(n){ return n != undefined }); 
+			addRandomSource(source);
 			resolve();
 		};
 		request.send(null);
