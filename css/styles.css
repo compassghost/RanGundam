@@ -19,3 +19,8 @@ body {
     vertical-align: middle;	
 	color: white;
 }
+
+div {
+	width: 90%;
+	margin: auto;
+}

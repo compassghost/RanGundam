@@ -3,7 +3,7 @@ window.onload = async function() {
 	await addRandomSourceFromDocument("docs/augment.txt");
 	await addRandomSourceFromDocument("docs/grade.txt");
 	await addRandomSourceFromDocument("docs/kit.txt");
-	addRandomSource("with");
+	//addRandomSource("with");
 	await addRandomSourceFromDocument("docs/tweak.txt");
 	document.getElementById("random").innerHTML = generateRandom();
 }
