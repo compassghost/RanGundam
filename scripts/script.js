@@ -5,6 +5,5 @@ window.onload = async function() {
 	await addRandomSourceFromDocument("docs/kit.txt");
 	addRandomSource("with");
 	await addRandomSourceFromDocument("docs/tweak.txt");
-	
 	document.getElementById("random").innerHTML = generateRandom();
 }
