@@ -1,5 +1,5 @@
 window.onload = async function() {
-	//addRandomSource("A");
+	addArticle("A", "An");
 	await addRandomSourceFromDocument("docs/grade.txt");
 	await addRandomSourceFromDocument("docs/augment.txt");
 	await addRandomSourceFromDocument("docs/kit.txt");
