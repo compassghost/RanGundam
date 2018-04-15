@@ -124,7 +124,7 @@ ARX-014 Silver Bullet
 ARX-014P Silver Bullet (Funnel Test Type)  
 RX-93 ν Gundam
 RX-93 ν Gundam Double Fin Funnel Type 
-RX-93-ν2 Hi-ν Gundam (Manga/Novel only)
+RX-93-ν2 Hi-ν Gundam 
 RX-94 Mass Production Type ν Gundam  
 RX-0 Unicorn Gundam
 RX-0 Full Armor Unicorn Gundam 
@@ -373,11 +373,10 @@ ZGMF-X09A Justice Gundam
 ZGMF-X19A Infinite Justice Gundam 
 ZGMF-X10A Freedom Gundam
 ZGMF-X20A Strike Freedom Gundam
-Civilian/Junk Guild/Serpent Tail/DSSD/Others
 MBF-P01 Gundam Astray Gold Frame 
 MBF-P01-ReAMATU Astray Gold Frame Amatsu 
 MBF-P01-Re2AMATU Astray Gold Frame Amatsu Mina Custom  
-MBF-P02 Gundam Astray Red Frame (Manga/Novel only)
+MBF-P02 Gundam Astray Red Frame 
 MBF-P02 Gundam Astray Red Dragon 
 MBF-P02Kai Gundam Astray Red Frame Kai  
 MBF-P03 Gundam Astray Blue Frame 
@@ -386,7 +385,7 @@ MBF-P03D Gundam Astray Blue Frame D
 MBF-P03third Gundam Astray Blue Frame Third  
 MBF-P04 Gundam Astray Green Frame 
 YMF-X000A Dreadnought Gundam 
-YMF-X000A/H Dreadnought H (Manga/Novel only) 
+YMF-X000A/H Dreadnought H 
 ZGMF-X12 Gundam Astray Out Frame 
 ZGMF-X12D Gundam Astray Out Frame D 
 ZGMF-X12D/θ Destiny Gundam Astray Out Frame D  
@@ -421,8 +420,8 @@ GNY-003 Gundam Abulhool
 GNY-003F Gundam Abulhool Type F  
 GNY-004 Gundam Plutone 
 GNY-0042-874 Gundam Artemie 
-GN-XXX Gundam Rasiel (Manga/Novel only)
-GN-XXX+GNR-000 Sefer Rasiel (Manga/Novel only) 
+GN-XXX Gundam Rasiel 
+GN-XXX+GNR-000 Sefer Rasiel 
 GN-001 Gundam Exia
 GN-001/hs-A01 Gundam Avalanche Exia 
 GN-001RE Gundam Exia Repair
@@ -574,7 +573,7 @@ PPGN-001 Gundam Exia Dark Matter
 RX-178B Build Gundam Mk-II
 XXXG-01Wf Wing Gundam Fenice
 XXXG-01Wfr Gundam Fenice Rinascita
-XXXG-01Wfr/A Gundam Fenice Rinascita Alba (Hobby Japan only) 
+XXXG-01Wfr/A Gundam Fenice Rinascita Alba 
 侍ノ弐 Sengoku Astray Gundam
 BG-011B Build Burning Gundam
 TBG-011B Try Burning Gundam
@@ -582,25 +581,25 @@ KMK-B01 Kamiki Burning Gundam
 LGZ-91 Lightning Gundam
 LGZ-91Fb Lightning Gundam Full Burnern 
 MSZ-006LGT Lightning Zeta Gundam
-MSZ-006LGT-3 Lightning Zeta Gundam Aspros (Hobby Japan only) 
+MSZ-006LGT-3 Lightning Zeta Gundam Aspros 
 SD-237 Winning Gundam
 SD-237S Star Winning Gundam
 Nobel M Gundam
 Rising K Gundam
 GT-9600-DV Gundam Leopard da Vinci
 MSN-001M Mega-Shiki
-MSN-001G Gilla-Shiki (Hobby Japan only) 
+MSN-001G Gilla-Shiki 
 LM312V04 Amethyst Victory Gundam
 RX-79［G］Ez-SR1 Gundam Ez-SR Intruder
 RX-79［G］Ez-SR2 Gundam Ez-SR Eliminator
 RX-79［G］Ez-SR3 Gundam Ez-SR Shadow Phantom
-Ez-SR-MAXIMA (Hobby Japan only)
-YZ-R28-SR［FH］ Ez-SR-FOXHOUND (Hobby Japan only)
+Ez-SR-MAXIMA 
+YZ-R28-SR［FH］ Ez-SR-FOXHOUND 
 RX-END Gundam The End
 GN-9999 Transient Gundam
 GNW-100P Gundam Portent
 最強機動 Gundam Tryon 3
-煌黒機動 Gundam Dryon Drei (Hobby Japan only)
+煌黒機動 Gundam Dryon Drei 
 SDG-R1 Snibal Gundam
 SDG-R2 Dragonagel Gundam
 SDG-R3 Giracanon Gundam
