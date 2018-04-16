@@ -6,39 +6,36 @@ AEU-05/92 AEU Hellion Initium
 AEU-05G AEU Hellion Ground Type
 AEU-09 AEU Enact
 AEU-09 AEU Enact Demonstration Colors
-AEU-09 AEU-09 AEU Enact Space Type
+AEU-09 AEU Enact Space Type
 AEU-09T AEU Enact Commander Type
 AEU-09Y812 AEU Enact Ali Al-Saachez Custom
 AEU-09Y812/A AEU Enact Ali Al-Saachez Custom
 AEU-09Y812/A Saachez Custom AEU Enact Custom Agrissa Type
 AEU-MA07013 Agrissa
-AGE-1 AGE-1 Gundam AGE-1 Daiki Version
+AGE-1 Gundam AGE-1 Daiki Version
 AGE-1 Gundam AGE-1 Normal
-AGE-1 Gundam AGE-1 Normal (Daiki Version) 
 AGE-1F Gundam AGE-1 Flat
 AGE-1G Gundam AGE-1 Glansa
-AGE-1R Gundam AGE-1 Razor 
+AGE-1R Gundam AGE-1 Razor
 AGE-1S Gundam AGE-1 Spallow
-AGE-1SW Gundam AGE-1 Swordia *Only appears in the Memory of Eden compilation movie.*
+AGE-1SW Gundam AGE-1 Swordia
 AGE-1T Gundam AGE-1 Titus
 AGE-2 Gundam AGE-2 Normal
-AGE-2A Gundam AGE-2 Artimes  
+AGE-2A Gundam AGE-2 Artimes
 AGE-2DB Gundam AGE-2 Double Bullet
 AGE-2DH Gundam AGE-2 Dark Hound
-AGE-3 Gudam AGE-3 Normal
 AGE-3 Gundam AGE-3 Normal
 AGE-3F Gundam AGE-3 Fortress
-AGE-3L Gundam AGE-3 Laguna  
+AGE-3L Gundam AGE-3 Laguna
 AGE-3O Gundam AGE-3 Orbital
 AGE-FX Gundam AGE-FX
-AGE-FX Gundam AGE-FX (A-Funnel Equipment Type)  
+AGE-FX Gundam AGE-FX (A-Funnel Equipment Type)
 AGX-04 Gerbera Tetra
 AMA-01X Jamru Fin
 AMA-100 Z'od-iacok
 AMA-100C Mass Production Type Zodiac
 AMA-953 BABI
 Amakusa
-Amakusa 
 AMA-X7 Shamblo
 AME-WAC01 DINN Special Electronic Installation Type
 AMF-101 DINN
@@ -96,25 +93,23 @@ Apsalus I
 Apsalus II
 Apsalus III
 ARX-014 Silver Bullet
-ARX-014P Silver Bullet (Funnel Test Type)  
-ARZ-125 Rehaize  
+ARX-014P Silver Bullet (Funnel Test Type)
+ARZ-125 Rehaize
 Astray's variants
 ASW-G-01 Gundam Bael
 ASW-G-08 Gundam Barbatos
 ASW-G-08 Gundam Barbatos Lupus
 ASW-G-08 Gundam Barbatos Lupus Rex
-ASW-G-08 Gundam Barbatos Lupus Rex 
 ASW-G-11 Gundam Gusion
 ASW-G-11 Gundam Gusion Rebake
 ASW-G-11 Gundam Gusion Rebake Full City
-ASW-G-11 Gundam Gusion Rebake Full City 
-ASW-G-29 Gundam Astaroth 
-ASW-G-29 Gundam Astaroth Origin 
-ASW-G-47 Gundam Vual 
+ASW-G-29 Gundam Astaroth
+ASW-G-29 Gundam Astaroth Origin
+ASW-G-47 Gundam Vual
 ASW-G-64 Gundam Flauros (Ryusei-Go)
 ASW-G-66 Gundam Kimaris
 ASW-G-66 Gundam Kimaris Trooper
-ASW-G-66 Gundam Kimaris Vidar 
+ASW-G-66 Gundam Kimaris Vidar
 ASW-G-XX Gundam Vidar
 Berga Giros's variant
 BG-011B Build Burning Gundam
@@ -122,13 +117,13 @@ Bifron
 Black Joker
 BMS-004 G-Exes Jackedge
 BMS-005 G-Xiphos
-BMS-005SS G-Xiphos (Snake Sword Equipment Type) 
-Brahman Gundam 
+BMS-005SS G-Xiphos (Snake Sword Equipment Type)
+Brahman Gundam
 Bromb Texter Improved Type
 Bromb Texter Pre-Production Type "Zero"
 Bromb Texter Production Type
 BuCUE's variants
-Bugu II (appeared only in the video game)
+Bugu II
 Build Akatsuki Gundam
 Calamity's variants
 CAMS-02 Catsith
@@ -138,33 +133,29 @@ CAMS-04 Wuxia
 CAMS-05 Mack Knife
 CAMS-05P Mack Knife Mass Production Type
 CAMS-13 Rai
-CAMS-14 Raid (appeared only in the video game)
-CAMS-15 Raiven (appeared only in the video game)
+CAMS-14 Raid
+CAMS-15 Raiven
 CAMW-13 MW-Rai
-CAMW-14 MW-Raid (appeared only in the video game)
+CAMW-14 MW-Raid
 CAT1-X Hyperion Gundam series
 CAT1-X1/3 Hyperion Gundam Unit 1
-CAT1-X1/3 Hyperion Gundam Unit 1 
 CAT1-X2/3 Hyperion Gundam Unit 2
-CAT1-X2/3 Hyperion Gundam Unit 2 
-CAT1-X3/3 Hyperion Gundam Unit 3 
+CAT1-X3/3 Hyperion Gundam Unit 3
 CAT1-X3/3 Hyperion Unit 3
 CAT1-XG1/12 Hyperion G
 CAT1-XG2/12 Hyperion G
 Cattle
 CB-0000G/C Reborns Gundam/Cannon
 CB-0000G/C/T Reborns Gundam Origin
-CB-0000G/C/T Reborns Gundam Origin  
 CB-001 1 Gundam
-CB-001 1 Gundam 
-CB-001.5 1.5 Gundam 
-CB-001.5D2 1.5 Gundam Type Dark  
+CB-001.5 1.5 Gundam
+CB-001.5D2 1.5 Gundam Type Dark
 CB-002 Raphael Gundam
-CB-002/GD Raphael Gundam Dominions  
+CB-002/GD Raphael Gundam Dominions
 CBNGN-003 [SVMS-01AP] Union Flag Celestial Being Version
 CBY-077 GN Cannon
 CCMS-03 Bugu
-CCMS-04 Spearhead (appeared only in the video game)
+CCMS-04 Spearhead
 Centurio
 Centurio Auxilius
 Centurio Consulare
@@ -222,7 +213,7 @@ EMA-04 Elefante
 EMA-06 Elegolea
 EMA-07 Nautilus
 EMA-10 Divinidad
-EMS-04 Zudah (appeared only in the manga adaption)
+EMS-04 Zudah
 EMS-05 Agg
 EMS-06 Batara
 EMS-06-P Arana Batara
@@ -231,7 +222,7 @@ EMS-09 Vagon
 EMS-10 Pez Batara
 EMS-10 Zudah
 EMS-12 Arana
-EMS-TC02 Phantom Gundam 
+EMS-TC02 Phantom Gundam
 EMS-VEX1 Mass Production Type Quavarze
 EMS-VSX1 Quavarze
 EMS-VSX2 Abijo
@@ -254,87 +245,68 @@ Extreme Gundam Tachyon Rephaser
 Extreme Gundam Type Leos
 Extreme Gundam Type Leos Agios Phase
 Extreme Gundam Type Leos Eclipse Phase
-Extreme Gundam Type Leos EXA Phase 
+Extreme Gundam Type Leos EXA Phase
 Extreme Gundam Type Leos II Vs
 Extreme Gundam Type Leos Xenon Phase
 Extreme Gundam Type Sthesia Excellia
-Ez-SR-MAXIMA 
-F70 Cannon Gundam 
+Ez-SR-MAXIMA
+F70 Cannon Gundam
 F71 G-Cannon
 F71 G-Cannon Powered Weapon Type
 F71 G-Cannon VSBR Type
 F71-B G-Cannon Magna
 F71B type S.D. G-Cannon Magna Super Destroid
 F90 Gundam F90
-F90 Gundam Formula 90 
+F90 Gundam Formula 90
 F90A Gundam F90 Assault Type
-F90A Gundam F90 Assault Type 
 F90D Gundam F90 Destroid Type
-F90D Gundam F90 Destroid Type 
 F90E Gundam F90 Reconnaissance Type
-F90E Gundam F90 Reconnaissance Type 
 F90H Gundam F90 Hover Type
-F90H Gundam F90 Hover Type 
 F90II Gundam F90II
-F90II Gundam F90II 
 F90II-I Gundam F90II Intercept Type
-F90II-I Gundam F90II Intercept Type 
 F90III-Y Cluster Gundam
-F90III-Y Cluster Gundam 
 F90II-L Gundam F90II Long Range Type
-F90II-L Gundam F90II Long Range Type  
 F90M Gundam F90 Marine Type
-F90M Gundam F90 Marine Type 
 F90P Gundam F90 Plunge Type
-F90P Gundam F90 Plunge Type 
 F90S Gundam F90 Support Type
-F90S Gundam F90 Support Type 
 F90V Gundam F90 VSBR Type
-F90V Gundam F90 VSBR Type  
-F90YKai Cluster Gundam Kai Prototype  
+F90YKai Cluster Gundam Kai Prototype
 F91 Gundam F91
 F91 Gundam F91 Imagine
 F91 Gundam F91 Twin VSBR Type
-F91 Gundam F91 Twin VSBR Type  
 FA-00100S Full Armor Hyaku Shiki Kai
 FA-007GIII Full Armor Gundam Mk-III
-FA-007GIII Full Armor Gundam Mk-III  
 FA-010A FAZZ
 FA-010S Full Armor Enhanced ZZ Gundam
-FA-010S Full Armor ZZ Gundam 
+FA-010S Full Armor ZZ Gundam
 FA-178 Full Armor Gundam Mk-II
-FA-178 Full Armor Gundam Mk-II 
 FA-78 Full Armor Gundam (Thunderbolt Sector)
 FA-78 Full Armor Gundam (Thunderbolt)
 FA-78(G) Full Armor Gundam Ground Type
 FA-78-1 Gundam Full Armor Type
-FA-78-1 Gundam Full Armor Type 
 FA-78-2 Heavy Gundam
-FA-78-2 Heavy Gundam  
 FA-78-3 Full Armor 7th Gundam
-FA-78-3 Full Armor 7th Gundam 
-FA-78-NT-1 Full Armor Gundam ALEX 
-FA-79FC Full Armor Striker Custom  
+FA-78-NT-1 Full Armor Gundam ALEX
+FA-79FC Full Armor Striker Custom
 FA-93HWS Nu Gundam Heavy Weapons System Type
 FD-03 Gustav Karl
-Ferrari Gundam 
+Ferrari Gundam
 FHA-78-3 Heavy Full Armor Gundam
 FLAT-L06D FLAT
 Forbidden's variant
 Forever Gundam Mk-III "Red Ranunculus"
-Forever Gundam Mk-III "Red Ranunculus" 
 FT-9600 GT-Bit
 Fuunsaiki
 FW-9800 GW-Bit
 FX-010A Super G Fortress
 FX-9900 GX-Bit
 FX-9900-D G-Bit D.O.M.E.
-G2-Saviour 
-G2-Saviour (appeared only in the video game)
-G3-Saviour 
-G3-Saviour (appeared only in the video game)
-G3-Saviour Ground Attack Mode 
-G3-Saviour Intensive Attack Mode  
+G2-Saviour
+G2-Saviour
+G3-Saviour
+G3-Saviour
+G3-Saviour Ground Attack Mode
+G3-Saviour Intensive Attack Mode
 G-838 Mahiroo
 Gaiyas
 GAT/A-01E2 Buster Dagger
@@ -355,14 +327,10 @@ GAT-04 Windam
 GAT-04+AQM/E-A4E1 Jet Windam
 GAT-04+AQM/E-M11 Doppelhorn Windam
 GAT-333 Raider Full Spec
-GAT-333 Raider Full Spec 
 GAT-706S Deep Forbidden
-GAT-706S Deep Forbidden 
 GAT-707E Forbidden Vortex
-GAT-707E Forbidden Vortex 
 GAT-FJ108 Caliburn Raigo Gundam
 GAT-FJ108 Raigo Gundam
-GAT-FJ108 Raigo Gundam 
 GAT-FJ108 Speculum Raigo Gundam
 GAT-FJ108 Sumbullet Raigo Gundam
 GAT-SO2R N Dagger N
@@ -377,49 +345,42 @@ GAT-X105 Strike Gundam
 GAT-X105+AQM/E-X01 Aile Strike Gundam
 GAT-X105+AQM/E-X02 Sword Strike Gundam
 GAT-X105+AQM/E-X03 Launcher Strike Gundam
-GAT-X105+AQM/E-X04 Gunbarrel Strike 
-GAT-X105+AQM/E-YM1 Perfect Strike Gundam 
+GAT-X105+AQM/E-X04 Gunbarrel Strike
+GAT-X105+AQM/E-YM1 Perfect Strike Gundam
 GAT-X105+P202QX Strike Gundam IWSP
-GAT-X105+P202QX Strike Gundam IWSP 
 GAT-X105+P204QX Lightning Strike Gundam
-GAT-X105+P204QX Lightning Strike Gundam 
 GAT-X105B Build Strike Gundam
-GAT-X105B/CM Build Strike Gundam Cosmos 
+GAT-X105B/CM Build Strike Gundam Cosmos
 GAT-X105B/FP Build Strike Gundam Full Package
 GAT-X105B/ST Star Build Strike Gundam
 GAT-X105E Strike Gundam E
-GAT-X105E Strike Gundam E 
 GAT-X105E+AQM/E-M1 Strike Gundam E IWSP
 GAT-X105E+AQM/E-X02 Another Trial Sword Strike E
 GAT-X105E+AQM/E-X03 Another Trial Launcher Strike E
 GAT-X105E+AQM/E-X09S Strike Noir Gundam
-GAT-X105E+AQM/E-X09S Strike Noir Gundam 
 GAT-X131 Calamity Gundam
-GAT-X131B Blau Calamity Gundam 
+GAT-X131B Blau Calamity Gundam
 GAT-X133 Sword Calamity
-GAT-X133 Sword Calamity Gundam  
+GAT-X133 Sword Calamity Gundam
 GAT-X207 Blitz Gundam
 GAT-X207SR Nero Blitz Gundam
-GAT-X207SR Nero Blitz Gundam 
 GAT-X252 Forbidden Gundam
-GAT-X252R Rot Forbidden Gundam 
+GAT-X252R Rot Forbidden Gundam
 GAT-X255 Forbidden Blue
-GAT-X255 Forbidden Blue Gundam 
+GAT-X255 Forbidden Blue Gundam
 GAT-X303 Aegis Gundam
 GAT-X303AA Rosso Aegis Gundam
-GAT-X303AA Rosso Aegis Gundam 
 GAT-X370 Raider Gundam
-GAT-X370G Gelb Raider Gundam 
+GAT-X370G Gelb Raider Gundam
 GAT-X399/Q Wild Dagger
 Gazarello
 GB-9700 Gundam Belphagor
-GB-9700 Gundam Belphagor 
 G-Bouncer Deos
 G-Cannon's variants
 Geara Doga's variants
 G-Exes Custom
 Geze
-GF1-035NGR Vulcan Gundam 
+GF1-035NGR Vulcan Gundam
 GF11-001NEL Britain Gundam
 GF11-033NNP Tantra Gundam
 GF11-042NSB Mammoth Gundam
@@ -432,17 +393,16 @@ GF13-002NGR Zeus Gundam
 GF13-003NEL John Bull Gundam
 GF13-006NA Gudam Maxter
 GF13-006NA Gundam Maxter
-GF13-006NAII Gundam Max Revolver 
+GF13-006NAII Gundam Max Revolver
 GF13-009NF Gundam Rose
-GF13-009NFII Gundam Versailles  
+GF13-009NFII Gundam Versailles
 GF13-011NC Dragon Gundam
-GF13-011NCII Dragon Double Gundam  
+GF13-011NCII Dragon Double Gundam
 GF13-012NN Viking Gundam
 GF13-013NR Bolt Gundam
-GF13-013NRII Bolt Crash Gundam  
+GF13-013NRII Bolt Crash Gundam
 GF13-017NJ Shining Gundam
 GF13-017NJII God Gundam
-GF13-017NJII God Gundam 
 GF13-020NK Zebra Gundam
 GF13-021NG Gundam Spiegel
 GF13-026ND Mermaid Gundam
@@ -456,7 +416,7 @@ GF13-047NMA Skull Gundam
 GF13-049NM Tequila Gundam
 GF13-050NSW Nobel Gundam
 GF13-050NSW Nobel Gundam GPB-D Color "Cardinal"
-GF13-050NSWII Super Nobel Gundam  
+GF13-050NSWII Super Nobel Gundam
 GF13-051NE Pharaoh Gundam XIII
 GF13-052NT Minaret Gundam
 GF13-053NMO Temjin Gundam
@@ -464,35 +424,28 @@ GF13-055NI Neros Gundam
 GF13-066NO Nether Gundam
 GF13-073NPO Gundam Magnat
 GF13-083NCB Arachno Gundam
-GF2-014NA Gundam Freedom 
-GF3-103NE Pharaoh Gundam III 
+GF2-014NA Gundam Freedom
+GF3-103NE Pharaoh Gundam III
 GF4-001NE Pharaoh Gundam IV
 GF4-005NC Feilong Gundam
-GF5-026NF Baron Gundam 
-GF6-021NI Gundam Tornado 
+GF5-026NF Baron Gundam
+GF6-021NI Gundam Tornado
 GF7-001NI Diablo Gundam
-GF7-001NI Diablo Gundam 
 GF7-010NC Kouga Gundam
-GF7-010NC Kouga Gundam 
 GF7-013NJ Yamato Gundam
-GF7-013NJ Yamato Gundam 
 GF7-018NR Mosque Gundam
-GF7-018NR Mosque Gundam 
 GF7-019NF Eiffel Gundam
-GF7-019NF Eiffel Gundam 
 GF7-021NG Kaiser Gundam
-GF7-021NG Kaiser Gundam 
 GF7-023NA Gundam Freedom
-GF7-023NA Gundam Freedom 
 GF7-xxxNGR Gundam Spartan
 GF7-xxxNIN Brahman Gundam
-GF8-011NR Cossack Gundam 
+GF8-011NR Cossack Gundam
 GF9-003NEL/GF10-001NEL/GF11-001NEL Britain Gundam
 GFAS-X1 Destroy Gundam
 GGF-001 Phoenix Gundam
 GGH-001 Halphas Gundam
 GGS-000 Phoenix Zero
-GGV-000 Barbatos 
+GGV-000 Barbatos
 Gids Geese
 Gigacy
 GINN's variants
@@ -502,45 +455,42 @@ G-M2F Zssan
 GM's variants
 GN-000 0 Gundam
 GN-0000 00 Gundam
-GN-0000/7S 00 Gundam Seven Sword 
-GN-0000/XN XN 00 Gundam 
+GN-0000/7S 00 Gundam Seven Sword
+GN-0000/XN XN 00 Gundam
 GN-0000+GNR-010 00 Raiser
-GN-0000+GNR-010/XN 00 XN Raiser  
-GN-0000GNHW/7SG 00 Gundam Seven Sword/G 
-GN-0000GNHW/7SGD2 00 Gundam Seven Sword/G Inspection  
+GN-0000+GNR-010/XN 00 XN Raiser
+GN-0000GNHW/7SG 00 Gundam Seven Sword/G
+GN-0000GNHW/7SGD2 00 Gundam Seven Sword/G Inspection
 GN-0000RE+GNR-010 00 Raiser GN Condenser Type
-GN-000FA Full-Armor 0 Gundam  
+GN-000FA Full-Armor 0 Gundam
 GN-001 Gundam Exia
 GN-001/HS-A01 Gundam Avalanche Exia
-GN-001/hs-A01 Gundam Avalanche Exia 
 GN-001/HS-A01D Gundam Avalanche Exia'
 GN-001RE Gundam Exia Repair
 GN-001REII Gundam Exia Repair II
-GN-001REIII Gundam Exia Repair III  
+GN-001REIII Gundam Exia Repair III
 GN-002 Gundam Dynames
 GN-002/DG014 Gundam Dynames Torpedo
-GN-002/DG014 Gundam Dynames Torpedo 
-GN-002RE Gundam Dynames Repair 
+GN-002RE Gundam Dynames Repair
 GN-003 Gundam Kyrios
 GN-003/AF-G02 Gundam Kyrios Gust
-GN-003/af-G02 Gundam Kyrios Gust  
 GN-004 Gundam Nadleeh
-GN-004/te-A02 Gundam Nadleeh Akwos  
+GN-004/te-A02 Gundam Nadleeh Akwos
 GN-005 Gundam Virtue
-GN-005/PH Gundam Virtue Physical  
+GN-005/PH Gundam Virtue Physical
 GN-006 Cherudim Gundam
-GN-006/SA Cherudim Gundam SAGA  
+GN-006/SA Cherudim Gundam SAGA
 GN-006GNHW/R Cherudim Gundam GNHW/R
 GN-007 Arios Gundam
-GN-007/AL Arios Gundam Ascalon  
+GN-007/AL Arios Gundam Ascalon
 GN-007GNHW/M Arios Gundam GNHW/M
 GN-008 Seravee Gundam
-GN-008GNHW/3G Seravee Gundam GNHW/3G 
+GN-008GNHW/3G Seravee Gundam GNHW/3G
 GN-008GNHW/B Seravee Gundam GNHW/B
-GN-008II Seravee Gundam II 
+GN-008II Seravee Gundam II
 GN-008RE Seravee Gundam II
 GN-009 Seraphim Gundam
-GN-009GNHW/B Seraphim Gundam GNHW/B  
+GN-009GNHW/B Seraphim Gundam GNHW/B
 GN-010 Gundam Zabanya
 GN-011 Gundam Harute
 GN-9999 Transient Gundam
@@ -553,16 +503,15 @@ GNMS-XCVII Alvaaron
 GNR-001D GN Arms Type-D
 GNR-001E GN Arms Type-E
 GNT-0000 00 Qan(T)
-GNT-0000/FS 00 Qan(T) Full Saber 
+GNT-0000/FS 00 Qan(T) Full Saber
 GNW-001 Gundam Throne Eins
 GNW-001/HS-T01 Gundam Throne Eins Turbulenz
-GNW-001/hs-T01 Gundam Throne Eins Turbulenz  
 GNW-002 Gundam Throne Zwei
 GNW-003 Gundam Throne Drei
 GNW-100P Gundam Portent
 GNW-20000 Arche Gundam
-GNW-20000/J Jagd Arche Gundam 
-GNW-20003 Arche Gundam Drei  
+GNW-20000/J Jagd Arche Gundam
+GNW-20003 Arche Gundam Drei
 GNX-509T Throne Varanus
 GNX-603T GN-X
 GNX-609T GN-XIII
@@ -574,41 +523,29 @@ GNX-803T GN-XIV
 GNX-903VS Brave (Standard Test Type)
 GNX-903VW Brave (Commander Test Type
 GNX-U02X Masurao
-GN-XXX Gundam Rasiel 
-GN-XXX+GNR-000 Sefer Rasiel 
-GN-XXXB + GNR-000B Black Sefer Rasiel  
-GN-XXXB Black Gundam Rasiel 
+GN-XXX Gundam Rasiel
+GN-XXX+GNR-000 Sefer Rasiel
+GN-XXXB + GNR-000B Black Sefer Rasiel
+GN-XXXB Black Gundam Rasiel
 GN-XXXB Black Rasiel
 GNX-Y901TW Susanowo
 GNY-001 Gundam Astraea
-GNY-001 Gundam Astraea 
 GNY-001 Gundam Astraea Type F
 GNY-001F Gundam Astraea Type F
-GNY-001F Gundam Astraea Type F 
 GNY-001F2 Gundam Astraea Type F2
-GNY-001F2 Gundam Astraea Type F2  
 GNY-001FB Black Gundam Astraea Type F
-GNY-001FB Black Gundam Astraea Type F 
-GNY-002 Gundam Sadalsuud 
+GNY-002 Gundam Sadalsuud
 GNY-002F Gundam Sadalsuud Type F
-GNY-002F Gundam Sadalsuud Type F  
 GNY-002FB Black Gundam Sadalsuud Type F
-GNY-002FB Black Gundam Sadalsuud Type F 
 GNY-003 Gundam Abulhool
-GNY-003 Gundam Abulhool 
 GNY-003CL Gundam Abulhool Plus
 GNY-003F Gundam Abulhool Type F
-GNY-003F Gundam Abulhool Type F  
 GNY-003FB Black Gundam Abulhool Type F
-GNY-003FB Black Gundam Abulhool Type F 
 GNY-004 Gundam Plutone
-GNY-004 Gundam Plutone 
 GNY-0042-874 Gundam Artemie
-GNY-0042-874 Gundam Artemie 
 GNY-004B Black Gundam Plutone
-GNY-004B Black Gundam Plutone 
-GNZ-001 GRM Gundam 
-GNZ-001E GRM Gundam E 
+GNZ-001 GRM Gundam
+GNZ-001E GRM Gundam E
 GNZ-003 Gadessa
 GNZ-004 Gaga
 GNZ-004/BW Gaga Cannon
@@ -634,58 +571,43 @@ GPB-X78H-S1 Avalanche Gundam
 GPB-X80 Beginning Gundam
 GPB-X80 Beginning Gundam Phantom
 GPB-X80-30F Beginning 30 Gundam
-GPB-X80-30F Beginning 30 Gundam 
 GPB-X80D Beginning D Gundam
 GPB-X80D Beginning D Gundam "Qan(T)"
 GPB-X80D Beginning D Gundam "Rakta Paksha"
-GPB-X80D Beginning D Gundam "Strelitzia" 
+GPB-X80D Beginning D Gundam "Strelitzia"
 GPB-X80D Beginning D Gundam (Dragoon Equipment)
 GPB-X80D Beginning D Gundam Light Burst
 GPB-X80D Beginning D Gundam Titus
-GPB-X80D GPB-X80D Beginning D Gundam "Rakta Paksha"
-GPB-X80D GPB-X80D Beginning D Gundam "Strelitzia"
-GPB-X80D GPB-X80D Perfect Beginning D Gundam
-GPB-X80D Perfect Beginning D Gundam 
+GPB-X80D Perfect Beginning D Gundam
 GPB-X80DJ Beginning DJ Gundam
-GPB-X80DJ GPB-X80DJ Beginning DJ Gundam
 GPB-X80J Beginning J Gundam
 GPB-X80J/7S Beginning J Gundam Seven Sword
-GPB-X80J/7S Beginning J Gundam Seven Sword 
 GPB-X80JD Beginning Gundam JD Phantom
-GPB-X80JD Begnning Gundam JD Phantom
 GPB-X80JFA Beginning J Gundam Burning Cloth
 G-Rach
 Grand Gundam
 Grand Master Gundam
-Grand Master Gundam 
-G-Saviour G-Saviour Origin
-G-Saviour G-Saviour Space Mode
-G-Saviour G-Saviour Terrain Mode
 G-Saviour Origin
 G-Saviour Space Mode
-G-Saviour Terrain Hover Mode 
+G-Saviour Terrain Hover Mode
 G-Saviour Terrain Mode
 GSF-YAM01 Δ Astray
-GSF-YAM01 Δ Astray 
 GSF-YAM02 Guardshell
 GSW-M02 Mars Tank
 GSX-401FW Stargazer Gundam
 GSX-401FW Stargazer Gundam Corleone
 GT-9600 Gundam Leopard
 GT-9600-D Gundam Leopard Destroy
-GT-9600-D Gundam Leopard Destroy 
 GT-9600-DV Gundam Leopard da Vinci
 GT-96600 Gundam Leopard
 GT-9800 Gundam Airmaster
 GuAIZ's variants
 Gump
-Gump 
 Guncannon's variants
 Gundam AGE-1 Phoenix
-Gundam AGE-1 Phoenix  
 Gundam Dynames Arm Arms
 Gundam F91's variants
-Gundam Franken 
+Gundam Franken
 Gundam Head
 Gundam Heaven's Sword
 Gundam Mk-III's variants
@@ -696,15 +618,13 @@ Gun-EZ's variants
 Gunmagna (only appear in manga adaption)
 GW-9800 Gundam Airmaster
 GW-9800-B Gundam Airmaster Burst
-GW-9800-B Gundam Airmaster Burst 
 GX-9900 Gundam X
 GX-9900-DV Gundam X Divider
-GX-9900-DV Gundam X Divider 
 GX-9901-DX Gundam Double X
 GX-9999 Gundam X Maoh
 Hardygun's variants
 Heavygun's variants
-HFA-78-3 Heavy Full Armor 7th Gundam 
+HFA-78-3 Heavy Full Armor 7th Gundam
 Hirame Gundam
 HWF91 Gundam F91 Heavy Weapons Type
 Hyaku Shiki's variants
@@ -712,29 +632,29 @@ Hyakushiki's variants
 Imperator
 Impulse's variants
 I-Saviour "Illusion"
-I-SAVIOUR Illusion 
+I-SAVIOUR Illusion
 Jack in Diamond
 Jamesgun's variants
 Javelin's variants
 JDG-00X Devil Gundam
 JDG-010 Devil Gundam Jr.
-JDG-010 Devil Gundam Junior 
+JDG-010 Devil Gundam Junior
 Jegan's variants
 JMA-0530 Walking Dome
 JMA27T Fantoma
 JMF1336R Rising Gundam
 JMS60 Busshi
 JMS71 Nobusshi
-J-Saviour (appeared only in the video game)
-Jumping Gundam 
+J-Saviour
+Jumping Gundam
 Kani Gundam
 Kimera
 King of Heart
-KMK-B01 Kamiki Burning Gundam 
-Knight Gundam 
+KMK-B01 Kamiki Burning Gundam
+Knight Gundam
 LG-GAT-X105 Gale Strike Gundam
 LGZ-91 Lightning Gundam
-LGZ-91Fb Lightning Gundam Full Burnern 
+LGZ-91Fb Lightning Gundam Full Burnern
 LH-GAT-X103 Hail Buster Gundam
 LM111E02 Gun-EZ
 LM111E02 Gun-EZ Land Use Type
@@ -743,17 +663,15 @@ LM111E03 Gunblastor
 LM312V04 Amethyst Victory Gundam
 LM312V04 Victory Gundam
 LM312V04+SD-VB03A V-Dash Gundam
-LM312V04+SD-VB03A V-Dash Gundam 
 LM312V06 Victory Gundam Hexa
 LM312V06+SD-VB03A V-Dash Gundam Hexa
-LM312V06+SD-VB03A V-Dash Gundam Hexa 
-LM313V10 Second Victory Gundam (appeared only in the novel adaption)
+LM313V10 Second Victory Gundam
 LM314V21 Victory 2 Gundam
 LM314V23 Victory 2 Buster Gundam
-LM314V23/24 V2 Assault-Buster Gundam 
+LM314V23/24 V2 Assault-Buster Gundam
 LM314V23/24 Victory 2 Assault-Buster Gundam
 LM314V24 Victory 2 Assault Gundam
-LM314V30 Victory 3 Gundam 
+LM314V30 Victory 3 Gundam
 LN-GAT-X207 Nebula Blitz Gundam
 LN-ZGMF-X13A Nix Providence Gundam
 LR-GAT-X102 Regen Duel Gundam
@@ -783,7 +701,7 @@ MAN-05 Gromlin
 MAN-05-2 Gromlin II
 MAN-05B Gromlin Fossil
 MAN-08 Elmeth
-Märchen Gundam 
+Märchen Gundam
 Mass Production Type Nautilus
 MAW-01 Mistral
 MAX-03 Adzam
@@ -792,52 +710,46 @@ MBF-02 Strike Rouge
 MBF-02+AQM/E-X01 Aile Strike Rouge
 MBF-02+AQM/E-X02 Sword Strike Rouge
 MBF-02+AQM/E-X03 Launcher Strike Rouge
-MBF-02+EW454F Strike Rouge Ootari 
+MBF-02+EW454F Strike Rouge Ootari
 MBF-02+P202QX Strike Rouge IWSP
-MBF-02VV Gundam Astray Turn Red 
+MBF-02VV Gundam Astray Turn Red
 MBF-C01 Command Astray Gundam
 MBF-JG73MJ Astray Mars Jacket
 MBF-M1 M1 Astray
 MBF-M1+EF-24R MBF-M1+EF-24R M1 Astray Shrike
 MBF-M1A M1A Astray
 MBF-P01 Gundam Astray Gold Frame
-MBF-P01 Gundam Astray Gold Frame 
-MBF-P01-Re2AMATU Astray Gold Frame Amatsu Mina Custom  
+MBF-P01-Re2AMATU Astray Gold Frame Amatsu Mina Custom
 MBF-P01-Re2AMATU Gundam Astray Gold Frame Amatsu Mina Custom
-MBF-P01-ReAMATU Astray Gold Frame Amatsu 
+MBF-P01-ReAMATU Astray Gold Frame Amatsu
 MBF-P01-ReAMATU Gundam Astray Gold Frame Amatsu
 MBF-P02 Astray Red Frame "Powered Red"
 MBF-P02 Astray Red Frame Mars Jacket
 MBF-P02 Astray Red Frame with Power Loader
-MBF-P02 Gundam Astray Red Dragon 
+MBF-P02 Gundam Astray Red Dragon
 MBF-P02 Gundam Astray Red Frame
-MBF-P02 Gundam Astray Red Frame 
 MBF-P02Kai Gundam Astray Red Frame Kai
-MBF-P02Kai Gundam Astray Red Frame Kai  
 MBF-P03 Gundam Astray Blue Frame
-MBF-P03 Gundam Astray Blue Frame 
 MBF-P03 Gundam Astray Blue Frame Second L
-MBF-P03 Gundam Astray Blue Frame second L 
 MBF-P03 Gundam Astray Blue Frame Third
-MBF-P03D Gundam Astray Blue Frame D 
+MBF-P03D Gundam Astray Blue Frame D
 MBF-P03R Gundam Astray Blue Frame Second Revise
 MBF-P03secondG Astray Blue Frame Second G
-MBF-P03third Gundam Astray Blue Frame Third  
+MBF-P03third Gundam Astray Blue Frame Third
 MBF-P04 Gundam Astray Green Frame
-MBF-P04 Gundam Astray Green Frame 
 MBF-P05LM Astray Mirage Frame
 MBF-P05LM Gundam Astray Mirage Frame
 MBF-P05LM2 Astray Mirage Frame 2nd Issue
 MBF-P05LM2 Gundam Astray Mirage Frame 2nd Issue
 MBF-P05LM3 Astray Mirage Frame 3rd Issue
 MBF-P05LM3 Gundam Astray Mirage Frame 3rd Issue
-MBF-P0X Gundam Astray Noir 
-MBF-P0XD Gundam Astray Noir D  
+MBF-P0X Gundam Astray Noir
+MBF-P0XD Gundam Astray Noir D
 Me-02R Messer
 MET6-MS Casshing
 Methuss's variants
 Mirage Gundam
-MMF-JG73L ∇ 
+MMF-JG73L ∇
 MMF-JG73L Turn Δ
 MMS-01 Serpent
 MMS-DS209 Guppy
@@ -849,11 +761,9 @@ MRC-F31 Muttowoooo
 MRC-U11D Walking Dumpling "WaD"
 MR-Spi05 Rib
 MRX-002 Newtype Use Prototype Gundam
-MRX-002 Newtype Use Prototype Gundam 
 MRX-007 Prototype Psyco Gundam
-MRX-007 Prototype Psyco Gundam 
-MRX-008 Prototype Psyco Gundam 
-MRX-009 Black Doll (only appear in novel adaption)
+MRX-008 Prototype Psyco Gundam
+MRX-009 Black Doll
 MRX-009 Psyco Gundam
 MRX-010 Psyco Gundam Mark II
 MRX-010 Psyco Gundam Mk-II
@@ -926,7 +836,7 @@ MS-09K-2 Dom Cannon
 MS-09R Rick Dom
 MS-09R Rick Dom (Stutzer)
 MS-09RII Rick Dom II
-MS-09RS Rick Dom Char Aznable Custom (Appeared only in the novels)
+MS-09RS Rick Dom Char Aznable Custom
 MS-10 Pezun Dowadge
 MS-11 Act Zaku
 MS-12 Gigan
@@ -955,11 +865,9 @@ MS-19 Dolmel
 MS-21C Dra-C
 MS-50A Zaku 50
 MSA-0011 S Gundam
-MSA-0011 S Gundam 
-MSA-0011(Bst) S Gundam Booster Unit Type 
+MSA-0011(Bst) S Gundam Booster Unit Type
 MSA-0011(Bst) S Gundam Booster Unit Type Plan 303E "Deep Striker"
-MSA-0011(Bst) S Gundam Booster Unit Type Plan 303E "Deep Striker" 
-MSA-0011(Ext) Ex-S Gundam  
+MSA-0011(Ext) Ex-S Gundam
 MSA-0011[Bst] S Gundam Booster Unit Type
 MSA-0011[Ext] Ex-S Gundam
 MSA-003 Nemo
@@ -979,7 +887,6 @@ MSAM-033 Gundam G-Arcane
 MSAM-YM03 Montero
 MSER-04 Anf
 MSF-007 Gundam Mk-III
-MSF-007 Gundam Mk-III 
 MSJ-04 Fanton
 MSJ-06II-A Tieren Ground Type
 MSJ-06II-AC Tieren Antiaircraft Cannon Type
@@ -1004,35 +911,33 @@ MSM-07E Z'Gok-E
 MSM-07S Z'Gok Commander Type
 MSM-08 Zogok
 MSM-10 Zock
-MSN-001 Delta Gundam 
+MSN-001 Delta Gundam
 MSN-00100 Byaku Shiki
 MSN-00100 Hyaku Shiki
-MSN-00100 Hyaku Shiki 
-MSN-00100 Hyaku Shiki GPB Color "Byaku Shiki" 
+MSN-00100 Hyaku Shiki GPB Color "Byaku Shiki"
 MSN-001-2 Delta Gundam II
 MSN-001A1 Delta Plus
-MSN-001G Gilla-Shiki 
+MSN-001G Gilla-Shiki
 MSN-001M Mega-Shiki
-MSN-001X Gundam Delta Kai 
-MSN-001X[G] Land Combat Type Gundam Delta Kai  
+MSN-001X Gundam Delta Kai
+MSN-001X[G] Land Combat Type Gundam Delta Kai
 MSN-01 High Mobility Psycommu System Zaku
 MSN-02 Perfect Zeong
 MSN-02 Zeong
 MSN-03 Jagd Doga
 MSN-03-2 Great Zeong
 MSN-04 Sazabi
-MSN-04II Nightingale (appeared only in the Beltorchika's Children novel)
+MSN-04II Nightingale
 MSN-06S Sinanju
 MSN-X4 Bagwi Doga
 MSR-00100S Hyaku Shiki Kai
 MSR-00100S Hyaku Shiki Kai Mass Production Type
 MSS-008 Le Cygne
-MSS-008 Le Cygne 
 MSS-009 Gemeaux
-MSW-004 Full-Armor Kestrel  
-MSW-004 Gundam (Kestrel) 
-MSW-004 Gundam (Kestrel) Armor Exterior 
-MSW-004 Gundam (Kestrel) Maneuver Exterior 
+MSW-004 Full-Armor Kestrel
+MSW-004 Gundam (Kestrel)
+MSW-004 Gundam (Kestrel) Armor Exterior
+MSW-004 Gundam (Kestrel) Maneuver Exterior
 MSZ-006 Zeta Gundam
 MSZ-006-3A Zeta Gundam 3A Type (OVA only)
 MSZ-006-3B Zeta Gundam 3B Type (OVA only)
@@ -1048,7 +953,7 @@ MSZ-006C4 Zeta Plus C4
 MSZ-006D Zeta Plus D
 MSZ-006E Zeta Plus
 MSZ-006LGT Lightning Zeta Gundam
-MSZ-006LGT-3 Lightning Zeta Gundam Aspros 
+MSZ-006LGT-3 Lightning Zeta Gundam Aspros
 MSZ-006-P2/3C Zeta Gundam P2/3C Type (OVA only)
 MSZ-006R Z Plus R
 MSZ-006-X Prototype Ζ Gundam
@@ -1057,10 +962,8 @@ MSZ-006-X2 Prototype Z Gundam X2
 MSZ-006-X3 Prototype Z Gundam X3
 MSZ-007 Mass Production Type Z Gundam
 MSZ-008 ZII
-MSZ-008 ZII  
 MSZ-009 Prototype ZZ Gundam
-MSZ-009 Prototype ZZ Gundam 
-MSZ-009B Prototype ZZ Gundam B Type 
+MSZ-009B Prototype ZZ Gundam B Type
 MSZ-010 ZZ Gundam
 MSZ-010 ΖΖ Gundam
 MSZ-010S Enhanced ZZ Gundam
@@ -1075,12 +978,10 @@ MWF-JG71 Raysta
 MWF-JG73 Civilian Astray 0 Custom IWSP
 MWF-JG73 Civilian Astray JG Custom
 MWS-19051G D Gundam "First"
-MWS-19051G D Gundam "First" 
 MWS-19051G-2 D Gundam "Second"
-MWS-19051G-2 D Gundam "Second" 
 NEL-75C Bulter Bensouman
 Nemo's variants
-Neo England Gundam 
+Neo England Gundam
 NF-MS81 Godarl
 NK-13 Cathedral Gundam
 NK-13J Denial Gundam
@@ -1092,7 +993,6 @@ NRS-P701 Gozzo
 NRS-P701R Godwin
 NRX-0013 Gundam Virsago
 NRX-0013-CB Gundam Virsago Chest Break
-NRX-0013-CB Gundam Virsago Chest Break 
 NRX-0015 Gundam Ashtaron
 NRX-0015-HC Gundam Ashtaron Hermit Crab
 NRX-007 Correl
@@ -1120,12 +1020,12 @@ OMS-06RF RF Zaku
 OMS-07RF RF Gouf
 OMS-09DRF RF Desert Dom
 OMS-09RF RF Dom
-OMS-09SRF RF Snow Dom (appeared only in the Formular Wars 0122 video game)
+OMS-09SRF RF Snow Dom
 OMS-14RF RF Gelgoog
 OMS-14SRF RF Gelgoog Charles Rochester Type
-OMS-15RF RF Gyan (appeared only in the manga adaption)
+OMS-15RF RF Gyan
 OMS-90R Gundam F90
-OMS-90R Gundam Formula 90 
+OMS-90R Gundam Formula 90
 OMSM-07RF RF Z'Gok
 ORB-01 Akatsuki Gundam
 ORB-01 Akatsuki Gundam Corleone
@@ -1135,12 +1035,10 @@ ORX-005 Gaplant TR-5 (Hrairoo)
 ORX-005 Gaplant TR-5 ［Fiver］
 ORX-005 Gaplant TR-5 GPB-D Color
 ORX-005CS Gaplant Custom Elisia Special
-ORX-008 Gundam ［Gullinbursti］ 
-ORX-009 Gundam ［Sköll］ 
+ORX-008 Gundam ［Gullinbursti］
+ORX-009 Gundam ［Sköll］
 ORX-012 Gundam Mk-IV
-ORX-012 Gundam Mk-IV 
 ORX-013 Gundam Mk-V
-ORX-013 Gundam Mk-V 
 ovm-e Dorado
 ovv-a Baqto
 ovv-f Gafran
@@ -1159,8 +1057,7 @@ OZ-07MS Tragos
 OZ-08MMS Cancer
 OZ-09MMS Pisces
 OZ-10VMSX Gundam Aesculapius
-OZ-10VMSX Gundam Aesculapius 
-OZ-10VMSX-2 Gundam Burnlapius  
+OZ-10VMSX-2 Gundam Burnlapius
 OZ-12SMS Taurus
 OZ-13MS Gundam Epyon
 OZ-13MSX1 Vayeate
@@ -1168,21 +1065,18 @@ OZ-13MSX1B-S Vayeate Shuivan
 OZ-13MSX2 Mercurius
 OZ-13MSX2B-S Mercurius Shuivan
 OZ-14MS Gundam Aquarius
-OZ-14MS Gundam Aquarius 
 OZ-15AGX Hydra Gundam
-OZ-15AGX Hydra Gundam 
 OZ-16MSX-D Scorpio
 OZ-19MASX Gundam Griepe
-OZ-19MASX Gundam Griepe 
 OZ-XGU01A Gundam Geminass 01
-OZX-GU01A Gundam Geminass 01 
+OZX-GU01A Gundam Geminass 01
 OZ-XGU01LOB Gundam L.O. Booster
-OZX-GU01LOB Gundam L.O. Booster  
+OZX-GU01LOB Gundam L.O. Booster
 OZ-XGU02A Gundam Geminass 02
-OZX-GU02A Gundam Geminass 02 
+OZX-GU02A Gundam Geminass 02
 P-143S Pescatore
-PF-78-1 Perfect Gundam 
-PF-78-3 Perfect Gundam III 
+PF-78-1 Perfect Gundam
+PF-78-3 Perfect Gundam III
 PF-78-3A Gundam Amazing Red Warrior
 PMC-1L Arms Astray PMC Custom
 PMX-000 Messala
@@ -1192,7 +1086,7 @@ PMX-003 The O
 PMX-003 The O GPB Color "Black The O"
 PMX-004 Titania
 PPGN-001 Gundam Amazing Exia
-PPGN-001 Gundam Exia Dark Matter 
+PPGN-001 Gundam Exia Dark Matter
 Prometheus
 Psyco Gundam's variants
 Quarter Suit
@@ -1208,7 +1102,7 @@ RB-79N Fisheye (appeared only in the manga adaption)
 Recksnow
 Recten
 Re-GZ's variants
-REON (Robotic Environment Operating-system Nucleus) Ver.5.7 Gundam Zephyr Phantom Mark II "Reon" 
+REON (Robotic Environment Operating-system Nucleus) Ver.5.7 Gundam Zephyr Phantom Mark II "Reon"
 RGC-80 GM Cannon
 RGC-80 White Dingo Custom
 RGC-80-1 GM Cannon Test Type
@@ -1257,7 +1151,7 @@ RGM-79D GM Cold Climate Type
 RGM-79EW EWAC GM
 RGM-79F Desert GM
 RGM-79F Land Combat Type GM
-RGM-79FC Striker Custom 
+RGM-79FC Striker Custom
 RGM-79FD Armored GM
 RGM-79FP GM Striker
 RGM-79G GM Command
@@ -1286,12 +1180,9 @@ RGM-89ST-2 ST-Gun (appeared only in the manga adaption)
 RGM-96X Jesta
 RGM-96X Jesta Cannon
 RGX-D3 D Gundam "Third"
-RGX-D3 D Gundam "Third" 
 RGX-D4 D Gundam "Fourth"
-RGX-D4 D Gundam "Fourth"  
 RGZ-91 Re-GZ
 RGZ-91B Re-GZ Custom
-RGZ-91B Re-GZ Custom  
 RGZ-95 ReZEL
 RGZ-95C ReZEL Commander Type
 RGZ-95C ReZEL Type-C (GR)
@@ -1300,7 +1191,7 @@ Rhinoceros
 Rick Dias's variants
 Rig Shokew's variants
 Rising K Gundam
-RIX-001 Gundam G-First 
+RIX-001 Gundam G-First
 RMS-006 Jenice
 RMS-006G Jenice
 RMS-006G Jenice Kai Crockas Custom
@@ -1340,18 +1231,15 @@ RMV-1 Guntank II
 RRf-06 Zanny
 RTX-440 Ground Assault Type Guntank
 RX-0 Full Armor Unicorn Gundam
-RX-0 Full Armor Unicorn Gundam 
 RX-0 Unicorn Gundam
 RX-0 Unicorn Gundam 02 Banshee
-RX-0 Unicorn Gundam 03 Phenex 
+RX-0 Unicorn Gundam 03 Phenex
 RX-0 Unicorn Gundam Banshee
-RX-0(N) Unicorn Gundam 02 Banshee Norn     
+RX-0(N) Unicorn Gundam 02 Banshee Norn
 RX-0[N] Unicorn Gundam Banshee Norn
 RX-098 Prototype Rick Dias
 RX-104FF Penelope
-RX-104FF Penelope 
 RX-105 Ξ Gundam
-RX-105 Ξ Gundam 
 RX-107 (Dandelion)
 RX-107 Rosette
 RX-107 Rosette Enhanced Land Battle Form Prototype
@@ -1360,45 +1248,41 @@ RX-110 Gabthley
 RX-110 Refined Zorin Soul
 RX-110 Zorin Soul
 RX-121 Gundam TR-1 (Hazel)
-RX-121 Gundam TR-1 (Hazel) 
-RX-121 Gundam TR-1 (Hazel) Full Armor Form 
-RX-121 Gundam TR-1 (Hazel) High Mobility Form  
+RX-121 Gundam TR-1 (Hazel) Full Armor Form
+RX-121 Gundam TR-1 (Hazel) High Mobility Form
 RX-121-1 Gundam TR-1 (Hazel Custom)
-RX-121-1 Gundam TR-1 (Hazel Custom) 
-RX-121-1 Gundam TR-1 (Hazel Custom) w/Icarus Unit 
-RX-121-1 Gundam TR-1 (Hazel Custom) w/Sniper Unit 
-RX-121-1 Gundam TR-1 (Hazel Custom) w/Sub Arm Unit  
+RX-121-1 Gundam TR-1 (Hazel Custom) w/Icarus Unit
+RX-121-1 Gundam TR-1 (Hazel Custom) w/Sniper Unit
+RX-121-1 Gundam TR-1 (Hazel Custom) w/Sub Arm Unit
 RX-121-1+FF-X29A Gundam TR-1 (Hazel Rah)
-RX-121-1+FF-X29A Gundam TR-1 (Hazel-Rah) 
-RX-121-1+FF-X29A Gundam TR-1 (Hazel-Rah) Second Form  
+RX-121-1+FF-X29A Gundam TR-1 (Hazel-Rah)
+RX-121-1+FF-X29A Gundam TR-1 (Hazel-Rah) Second Form
 RX-121-2 Gundam TR-1 (Hazel II)
-RX-121-2 Gundam TR-1 (Hazel II) 
 RX-121-2 Gundam TR-1 (Hazel Owsla)
-RX-121-2 Gundam TR-1 (Hazel Owsla) 
-RX-121-2 Gundam TR-1 (Hazel Owsla) Last Shooting version  
-RX-121-2 Gundam TR-1 (Hazel Owsla) w/ Gigantic Arm Unit 
+RX-121-2 Gundam TR-1 (Hazel Owsla) Last Shooting version
+RX-121-2 Gundam TR-1 (Hazel Owsla) w/ Gigantic Arm Unit
 RX-121-2A Gundam TR-1 (Advance Hazel)
-RX-121-2A Gundam TR-1 (Advanced Hazel) 
-RX-121-3C Gundam TR-1 (Hyzenthlay) 
-RX-121-3C Gundam TR-1 Hyzenthlay-Rah 
-RX-121-3C Gundam TR-1 Hyzenthlay-Rah II  
-RX-123 Gundam TR-S (El-Ahrairah) 
-RX-124 Gundam TR-6 (Advanced Kehaar II)  
-RX-124 Gundam TR-6 (Advanced Woundwort Ex)  
-RX-124 Gundam TR-6 (Advanced Woundwort) 
-RX-124 Gundam TR-6 (Dandelion II) 
-RX-124 Gundam TR-6 (Fiver II) 
-RX-124 Gundam TR-6 (Gaplant II) 
-RX-124 Gundam TR-6 (Hazel II) 
-RX-124 Gundam TR-6 (Hi-Zack II) 
-RX-124 Gundam TR-6 (Hrairoo II) 
-RX-124 Gundam TR-6 (Inle) 
-RX-124 Gundam TR-6 (Kehaar II) 
-RX-124 Gundam TR-6 (Psyco Inle)  
-RX-124 Gundam TR-6 (Woundwort) 
-RX-124 Gundam TR-6 (Woundwort) Base Defense Form 
-RX-124 Gundam TR-6 (Woundwort) Gigantic Form 
-RX-124 Gundam TR-6 (Woundwort-Rah) 
+RX-121-2A Gundam TR-1 (Advanced Hazel)
+RX-121-3C Gundam TR-1 (Hyzenthlay)
+RX-121-3C Gundam TR-1 Hyzenthlay-Rah
+RX-121-3C Gundam TR-1 Hyzenthlay-Rah II
+RX-123 Gundam TR-S (El-Ahrairah)
+RX-124 Gundam TR-6 (Advanced Kehaar II)
+RX-124 Gundam TR-6 (Advanced Woundwort Ex)
+RX-124 Gundam TR-6 (Advanced Woundwort)
+RX-124 Gundam TR-6 (Dandelion II)
+RX-124 Gundam TR-6 (Fiver II)
+RX-124 Gundam TR-6 (Gaplant II)
+RX-124 Gundam TR-6 (Hazel II)
+RX-124 Gundam TR-6 (Hi-Zack II)
+RX-124 Gundam TR-6 (Hrairoo II)
+RX-124 Gundam TR-6 (Inle)
+RX-124 Gundam TR-6 (Kehaar II)
+RX-124 Gundam TR-6 (Psyco Inle)
+RX-124 Gundam TR-6 (Woundwort)
+RX-124 Gundam TR-6 (Woundwort) Base Defense Form
+RX-124 Gundam TR-6 (Woundwort) Gigantic Form
+RX-124 Gundam TR-6 (Woundwort-Rah)
 RX-124 TR-6 (Woundwort)
 RX-139 Hambrabi
 RX-160 Byarlant
@@ -1416,90 +1300,79 @@ RX-77-3 Guncannon Heavy Arms Type
 RX-77-4 Guncannon II
 RX-77D Guncannon Mass Production Type
 RX-77D White Dingo Custom
-RX-78/C.A. Casval's Gundam 
+RX-78/C.A. Casval's Gundam
 RX-78/C.A. Gundam Casval Rem Deikun Custom
 RX-78-01 [N] Gundam Local Type
 RX-78-01 Prototype Gundam
 RX-78-02 Gundam
 RX-78-1 Prototype Gundam
-RX-78-1 Prototype Gundam 
 RX-78-2 Gundam
 RX-78-3 Gundam "G3"
-RX-78-3 Gundam "G-3" 
+RX-78-3 Gundam "G-3"
 RX-78-4 4th Gundam
-RX-78-4 Gundam Unit 4 "G04" 
+RX-78-4 Gundam Unit 4 "G04"
 RX-78-5 5th Gundam
-RX-78-5 Gundam Unit 5 "G05" 
+RX-78-5 Gundam Unit 5 "G05"
 RX-78-6 6th Gundam
 RX-78-6 Mudrock Gundam
-RX-78-6 Mudrock Gundam 
 RX-78-7 7th Gundam
-RX-78-7 7th Gundam 
-RX-78AL Atlas Gundam 
-RX-78EX-PH-1 Zephyr Gundam 
-RX-78GP00 Gundam GP00 "Blossom" 
+RX-78AL Atlas Gundam
+RX-78EX-PH-1 Zephyr Gundam
+RX-78GP00 Gundam GP00 "Blossom"
 RX-78GP01 Gundam "Zephyranthes"
 RX-78GP01 Gundam Zephyranthes
-RX-78GP01Fa Gundam "Zephyranthes Full Armor" 
-RX-78GP01-Fb Gundam Full Burnern "Zephyranthes" 
+RX-78GP01Fa Gundam "Zephyranthes Full Armor"
+RX-78GP01-Fb Gundam Full Burnern "Zephyranthes"
 RX-78GP01-Fb Gundam Full Burnern Zephyranthes
 RX-78GP02A Gundam "Physalis"
-RX-78GP02A Gundam GP02A (Type-MLRS) 
+RX-78GP02A Gundam GP02A (Type-MLRS)
 RX-78GP02A Gundam Physalis
 RX-78GP02A Gundam Physalis Beam Bazooka Type
 RX-78GP02A Gundam Physalis MLRS Type
 RX-78GP03 Gundam Dendrobium
-RX-78GP03D Gundam "Dendrobium Orchis" 
+RX-78GP03D Gundam "Dendrobium Orchis"
 RX-78GP03S Gundam "Dendrobium Stamen"
 RX-78GP03S Gundam Dendrobium Stamen
-RX-78GP04G Gundam "Gerbera" 
+RX-78GP04G Gundam "Gerbera"
 RX-78NT-1 Gundam "Alex"
-RX-78NT-X NT-X  
+RX-78NT-X NT-X
 RX-78NT-X(MRX-003) NT-X
 RX-78Opt Gundam G-Dash
 RX-78XX Gundam Pixie
-RX-78XX Gundam Pixie 
 RX-78-Z1 Zeon's Gundam
 RX-79(G) Gundam Ground Type
 RX-79(G)Ez-8 Gundam Ez8
 RX-79[G] Gundam Ground Type
-RX-79［G］ SW Slave Wraith 
+RX-79［G］ SW Slave Wraith
 RX-79[G]Ez-8 Gundam Ez8
 RX-79［G］Ez-SR1 Gundam Ez-SR Intruder
 RX-79［G］Ez-SR2 Gundam Ez-SR Eliminator
 RX-79［G］Ez-SR3 Gundam Ez-SR Shadow Phantom
 RX-79BD-1 Blue Destiny Unit 1
 RX-79BD-2 Blue Destiny Unit 2
-RX-79BD-2 Blue Destiny Unit 2 
 RX-79BD-3 Blue Destiny Unit 3
-RX-79BD-3 Blue Destiny Unit 3 
 RX-79Ez-8 Gundam Ez8 Kai
 RX-79Ez-8/HAC Gundam Ez8 Heavy Armed Custom
-RX-79Ez-8/HAC Gundam Ez8 Heavy Armed Custom 
 RX-79Ez-8/HMC Gundam Ez8 High Mobility Custom
-RX-79Ez-8/HMC Gundam Ez8 High Mobility Custom  
-RX-80PR Pale Rider 
+RX-80PR Pale Rider
 RX-81LA RX-81 Light Armor
 RX-81ST RX-81 Standard
 RX-93 Nu Gundam
 RX-93 Nu Gundam Double Fin Funnel Type
 RX-93 ν Gundam
-RX-93 ν Gundam Double Fin Funnel Type 
+RX-93 ν Gundam Double Fin Funnel Type
 RX-93 ν Gundam Vrabe
-RX-93-ν2 Hi-ν Gundam 
-RX-93-ν2 Hi-ν Gundam (appeared only in the Beltorchika's Children novel)
+RX-93-ν2 Hi-ν Gundam
+RX-93-ν2 Hi-ν Gundam
 RX-93ν-2I Hi-ν Gundam Influx
 RX-93-ν2V Hi-ν Gundam Vrabe
-RX-93-ν2VA Hi-v Gundam Vrabe Amazing A&D 
+RX-93-ν2VA Hi-v Gundam Vrabe Amazing A&D
 RX-94 Mass Production Type Nu Gundam
-RX-94 Mass Production Type ν Gundam  
+RX-94 Mass Production Type ν Gundam
 RX-99 Neo Gundam
-RX-99 Neo Gundam 
 RX-END Gundam The End
 RXF-91 Silhouette Gundam
-RXF-91 Silhouette Gundam 
 RXF-91A Silhouette Gundam Kai
-RXF-91A Silhouette Gundam Kai  
 RXR-44 Guntank R-44
 Scheherazade
 Scud Gundam
@@ -1515,7 +1388,7 @@ SK-12SMS Taurus
 Snibal-Drago-Gira
 Snow White
 SPA-51 Cannon Illefuto
-Spartan Gundam 
+Spartan Gundam
 Sphinx Gundam
 Strike's variants
 Super Dias
@@ -1546,7 +1419,6 @@ TMF/S-3 GINN OCHER Type
 TMF/TR-2 BuCUE Tactical Reconnaissance Type
 TOLRO-800 "Torohachi"
 Tornado Gundam
-Tornado Gundam 
 Tria
 TS-MA2 Moebius
 TS-MA2mod.00 Moebius Zero
@@ -1572,7 +1444,6 @@ VGMM-Sc02 Gastima
 Vigna Ghina's variants
 VMS-15 Union Realdo
 Walter Gundam
-Walter Gundam 
 Warlock
 WD-M01MS ∀ Gundam Shin
 WF-02MD Virgo II
@@ -1583,7 +1454,7 @@ WMS-GB5 G-Bouncer
 WMS-GEX1 G-Exes
 Workloader
 Wyvern
-X-0 Crossbone Gundam Ghost 
+X-0 Crossbone Gundam Ghost
 XM-01 Den'an Zon
 XM-02 Den'an Gei
 XM-03 Ebirhu-S
@@ -1602,55 +1473,50 @@ XM-10 Flint
 XMA-01 Rafflesia
 XMA-02 Ebirhu Doga
 XMF-P192P Proto-Chaos
-XMS-005 Thieleva 
+XMS-005 Thieleva
 XM-X1 Crossbone Gundam X-1
-XM-X1 Crossbone Gundam X-1 
-XM-X1 Crossbone Gundam X-1 Full Armor 
+XM-X1 Crossbone Gundam X-1 Full Armor
 XM-X1 Crossbone Gundam X-1 Full Cloth Type.GBFT
 XM-X1 Crossbone Gundam X-1 Kai
-XM-X1 Crossbone Gundam X-1 Kai 
-XM-X1 Crossbone Gundam X-1 Kai Kai "Skull Heart"  
+XM-X1 Crossbone Gundam X-1 Kai Kai "Skull Heart"
 XM-X1 Crossbone Gundam X-1 Kai-Kai "Skull Heart"
 XM-X2 Crossbone Gundam X-2
-XM-X2 Crossbone Gundam X-2 
 XM-X2 Crossbone Gundam X-2 Kai
-XM-X2 Crossbone Gundam X-2 Kai  
 XM-X3 Crossbone Gundam X-3
-XM-X3 Crossbone Gundam X-3 
-XM-X9999 Crossbone Gundam Maoh 
-XM-XX Ghost Gundam  
+XM-X9999 Crossbone Gundam Maoh
+XM-XX Ghost Gundam
 xvb-xd Farsia
 xvm-dgc Khronos
 xvm-fzc Gundam Legilis
-xvm-fzc-zgc Gundam Legilis R 
+xvm-fzc-zgc Gundam Legilis R
 xvm-gz Defurse
 xvm-zgc Zeydra
 xvv-xc Zedas
 xvv-xcr Zedas R
 XXXG-00W0 Wing Gundam Zero
 XXXG-00W0CV Wing Gundam Zero Honoo
-XXXG-00W0FF Wing Gundam Zero Flame Feder 
-XXXG-00W0L Gundam Lucifer 
-XXXG-00W0S Wing Gundam Seraphim  
+XXXG-00W0FF Wing Gundam Zero Flame Feder
+XXXG-00W0L Gundam Lucifer
+XXXG-00W0S Wing Gundam Seraphim
 XXXG-01D Gundam Deathscythe
 XXXG-01D2 Gundam Deathscythe Hell
-XXXG-01DG Gundam Deathscythe Guilty 
-XXXG-01DG2 Gundam Deathscythe Guilty Custom  
+XXXG-01DG Gundam Deathscythe Guilty
+XXXG-01DG2 Gundam Deathscythe Guilty Custom
 XXXG-01H Gundam Heavyarms
 XXXG-01H2 Gundam Heavyarms Kai
-XXXG-01HD Gundam Derringer Arms  
+XXXG-01HD Gundam Derringer Arms
 XXXG-01S Shenlong Gundam
 XXXG-01S2 Altron Gundam
 XXXG-01S-2 Altron Gundam
 XXXG-01SR Gundam Sandrock
 XXXG-01SR2 Gundam Sandrock Kai
-XXXG-01SRL Gundam Sandleon 
-XXXG-01SRL2 Gundam Sandleon Custom  
-XXXG-01ST T'ien-Lung Gundam  
+XXXG-01SRL Gundam Sandleon
+XXXG-01SRL2 Gundam Sandleon Custom
+XXXG-01ST T'ien-Lung Gundam
 XXXG-01W Wing Gundam
 XXXG-01Wf Wing Gundam Fenice
 XXXG-01Wfr Gundam Fenice Rinascita
-XXXG-01Wfr/A Gundam Fenice Rinascita Alba 
+XXXG-01Wfr/A Gundam Fenice Rinascita Alba
 YAMS-132 Rozen Zulu
 YF-3A GINN FEMWS
 YFX-200 CGUE DEEP Arms
@@ -1668,9 +1534,7 @@ YMAF-X6BD Zamza-Zah
 YMAG-X7F Gells-Ghe
 YMF-01B Proto GINN
 YMF-X000A Dreadnought Gundam
-YMF-X000A Dreadnought Gundam 
 YMF-X000A/H Dreadnought H
-YMF-X000A/H Dreadnought H 
 YMS-07A Prototype Gouf
 YMS-08A High Mobility Prototype
 YMS-09 Prototype Dom
@@ -1681,7 +1545,7 @@ YMS-18 Prototype Kämpfer
 YMT-05 Hildolfr
 YRMS-106 Hizack Pre-Production Type
 YRMS-106+BL-85X Bizack TR-2 (Bigwig)
-YZ-R28-SR［FH］ Ez-SR-FOXHOUND 
+YZ-R28-SR［FH］ Ez-SR-FOXHOUND
 ZAFT/PLANT
 Zaku II's variants
 Zaku I's variants
@@ -1728,11 +1592,9 @@ ZGMF-X101S ZAKU Splendor
 ZGMF-X10A Freedom
 ZGMF-X10A Freedom Gundam
 ZGMF-X10AFF Freedom Gundam Flame Feder
-ZGMF-X1100L Nyaia Gundam Leone 
+ZGMF-X1100L Nyaia Gundam Leone
 ZGMF-X11A Regenerate Gundam
-ZGMF-X11A Regenerate Gundam 
 ZGMF-X12 Gundam Astray Out Frame
-ZGMF-X12 Gundam Astray Out Frame 
 ZGMF-X12 Gundam Astray Out Frame G-Flight
 ZGMF-X12/A1 Gunner Gundam Astray Out Frame
 ZGMF-X12/K Slash Gundam Astray Out Frame
@@ -1743,20 +1605,17 @@ ZGMF-X12/γ Blast Gundam Astray Out Frame
 ZGMF-X12+AQM/E-X01 Aile Gundam Astray Out Frame
 ZGMF-X12+AQM/E-X03 Launcher Gundam Astray Out Frame
 ZGMF-X12A Testament Gundam
-ZGMF-X12A Testament Gundam 
 ZGMF-X12A+AQM/E-X05 Divine Testament Gundam
 ZGMF-X12D Gundam Astray Out Frame D
-ZGMF-X12D Gundam Astray Out Frame D 
 ZGMF-X12D Gundam Astray Out Frame D G-Flight
 ZGMF-X12D/θ Destiny Gundam Astray Out Frame D
-ZGMF-X12D/θ Destiny Gundam Astray Out Frame D  
 ZGMF-X12D+AQM/E-M11 Doppelhorn Gundam Astray Out Frame D
 ZGMF-X12D+AQM/E-X01 Aile Gundam Astray Out Frame D
 ZGMF-X12D+AQM/E-X02 Sword Gundam Astray Out Frame D
 ZGMF-X13A Providence
 ZGMF-X13A Providence Gundam
 ZGMF-X19A ∞ Justice Gundam
-ZGMF-X19A Infinite Justice Gundam 
+ZGMF-X19A Infinite Justice Gundam
 ZGMF-X2000 ZGMF-2000 GOUF Ignited
 ZGMF-X2000CQGB&S GOUF Crusher
 ZGMF-X20A Strike Freedom Gundam
@@ -1766,9 +1625,9 @@ ZGMF-X24S Chaos Gundam
 ZGMF-X3000Q Providence ZAKU
 ZGMF-X31S Abyss Gundam
 ZGMF-X42S Destiny Gundam
-ZGMF-X56/δ Chaos Impulse Gundam 
-ZGMF-X56/ε Abyss Impulse Gundam 
-ZGMF-X56/ζ Gaia Impulse Gundam  
+ZGMF-X56/δ Chaos Impulse Gundam
+ZGMF-X56/ε Abyss Impulse Gundam
+ZGMF-X56/ζ Gaia Impulse Gundam
 ZGMF-X56S Impulse Gundam
 ZGMF-X56S/α Force Impulse Gundam
 ZGMF-X56S/β Sword Impulse Gundam
@@ -1777,16 +1636,15 @@ ZGMF-X56S/δ Chaos Impulse Gundam
 ZGMF-X56S/ε Abyss Impulse Gundam
 ZGMF-X56S/ζ Gaia Impulse Gundam
 ZGMF-X56S/θ Destiny Impulse
-ZGMF-X56S/θ Destiny Impulse Gundam 
-ZGMF-X56S/ι Destiny Impulse Gundam R  
+ZGMF-X56S/θ Destiny Impulse Gundam
+ZGMF-X56S/ι Destiny Impulse Gundam R
 ZGMF-X666S Legend Gundam
 ZGMF-X88S Gaia Gundam
 ZGMF-X999A ZAKU Trail Type
 ZGMF-XX09T DOM Trooper
 ZGMF-XX09T DOM Trooper Original Spec Type
 ZGMF-YX21R Proto-Saviour
-ZGMF-YX21R Proto-Saviour 
-ZGMF-YX21R+X11A (RGX-04) Proto-Saviour  
+ZGMF-YX21R+X11A (RGX-04) Proto-Saviour
 ZGMF-YX21R+X11A Proto-Saviour+11
 ZM-A05G Recarl
 ZM-D11S Abigor
@@ -1831,4 +1689,4 @@ ZZ Gundam's variants
 α000-0001 Gaia Gear α
 侍ノ弐 Sengoku Astray Gundam
 最強機動 Gundam Tryon 3
-煌黒機動 Gundam Dryon Drei 
+煌黒機動 Gundam Dryon Drei
